@@ -1,0 +1,10 @@
+ahaflix.tv
+app.netmirror.newtv
+ch.protonvpn.android
+com.etvwin.androidtv
+com.graymatrix.did
+com.internet.tvbrowser
+com.mxtech.videoplayer.television
+com.sonyliv
+com.suntv.sunnxt
+in.startv.hotstar

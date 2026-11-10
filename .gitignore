@@ -1,0 +1,5 @@
+tools/
+*.jks
+*.apk
+out/
+.DS_Store

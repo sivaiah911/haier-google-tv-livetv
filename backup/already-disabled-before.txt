@@ -1,0 +1,6 @@
+com.haier.apps.evoSmart
+com.mediatek.dtv.tvinput.atsctuner
+com.mediatek.dtv.tvinput.isdbtuner
+com.mediatek.tv.oneworld.tvcenter
+it.hon.onboarding
+ru.haier.evo

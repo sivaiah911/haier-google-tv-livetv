@@ -1,0 +1,16 @@
+# Undo list. APP <package> = turned off with pm disable-user. SETTING <ns> <key> <old value>.
+APP com.google.android.youtube.tvmusic
+APP com.google.android.play.games
+APP com.google.android.feedback
+APP com.mediatek.tv.retaildemo
+APP tv.anoki.acr.anokiacroptin
+APP com.haier.gamingbar
+APP com.haier.emanual9603
+APP com.haier.tvhousekeeper
+APP com.mediatek.miracast
+TVDETOX com.ansub.tvhome (remove with: sh tv-detox/undo.sh <TV_IP>:<port>)
+SETTING global window_animation_scale 1.0
+SETTING global transition_animation_scale 1.0
+SETTING global animator_duration_scale 1.0
+SETTING secure sleep_timeout 1200000
+SETTING system screen_off_timeout 600000
